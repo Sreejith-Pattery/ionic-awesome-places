@@ -1,2 +1,2 @@
 # ionic-awesome-places
-# set nvm to 8.1
+# set nvm to v8.11.1
